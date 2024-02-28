@@ -7,13 +7,13 @@ Few Data Preprocessing steps has been done in this project-- can be seen within 
 The model is evaluated based on the precision (Since, the data has greater Non-Spam target than spam target)
 
 # Dataset
-The dataset used in this model is taken from the kaggle ('https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download'). It is also documented with in this Repo by the name of 'DataSet'.
+The dataset used in this model is taken from the kaggle ('https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download'). It is also documented in csv format.
 
 # Model 
-This documentation the Trained model on on the given dataset usin Multinomial Naive Bayes
+This documentation the Trained model.pkl on on the given dataset usin Multinomial Naive Bayes
 
 # Vectorizer 
-This documentation contains the trained tfidf vectorizer, which can be used to vectorize the input sentence/SMS.
+This documentation contains the trained tfidf vectorizer.pkl, which can be used to vectorize the input sentence/SMS.
 
 # Deployment_LocalNet
 This notebook contain the code to deploy the model on the Local Host
