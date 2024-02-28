@@ -4,7 +4,7 @@ This repository contains detailed methodology and code for a machine learning mo
 
 Few Data Preprocessing steps has been done in this project-- can be seen within 'main', folowed by EDA which includes Bargraphs, Pichart, Histograms, Heatmaps, Wordcloud.
 
-The model is evaluated based on the precision (Since, the data has greater Non-Spam target than spam target)
+The model is evaluated based on the Precision Score(Since, the data has greater Non-Spam target than spam target)
 
 # Dataset
 The dataset used in this model is taken from the kaggle ('https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset?resource=download'). It is also documented in csv format.
