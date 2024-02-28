@@ -22,4 +22,3 @@ This notebook contain the code to deploy the model on the Local Host
 1. Download the Dataset on your Desktop
 2. copy the main file to your desired IDE (Or just downlaod the trained model and trained vectorizer)
 3. Run the Deployment code
-4. 
